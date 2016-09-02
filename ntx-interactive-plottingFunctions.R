@@ -44,7 +44,7 @@ plotDataRU <- function(genes, tissues) {
   
   ### generate plot using ggplot2
   final_plot <- ggplot(data=tpm_subset.melt[tpm_subset.melt$tissue %in% tissues,],
-                       aes(x=Vectorbase.Identifier,y=Transcripts.Per.Million,
+                       aes(x=Internal.gene.ID,y=Transcripts.Per.Million,
                            group=condition,colour=condition)) + 
     geom_point(position=position_dodge(width = .5)) +
     facet_grid(sex ~ tissue)
