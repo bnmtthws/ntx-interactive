@@ -1,6 +1,5 @@
 ##### LOAD DATA FOR NTX PLOTTING
 
-
 ### define the relevant filenames within the working directory
 ANNOTATION <- 'files/Additional file 3 - AaegLRU annotation.csv'
 TPM_RU <- 'files/Additional File 5 - TPM_all.csv'
