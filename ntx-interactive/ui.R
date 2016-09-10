@@ -29,8 +29,8 @@ shinyUI(fluidPage(
                                      )),
                   radioButtons("id.type", label = h3("Identifier type"),
                                choices = list("Vectorbase identifiers" = 1, "Vosshall lab identifiers" = 2),selected = 1),
-                  textInput("genes", label = h3("Gene names (separated by commas)"), 
-                            value = "AAEL000582"),
+                  textInput("genes", label = h3("Gene names (separated by |)"), 
+                            value = "AAEL000582|AAEL008164|AAEL010779"),
                   actionButton("goButton", "Go!")),
                 
                 mainPanel(

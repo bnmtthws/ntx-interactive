@@ -2,8 +2,8 @@ name: ntx-interactive
 account: mosquito
 server: shinyapps.io
 appId: 123737
-bundleId: 548008
+bundleId: 554193
 url: https://mosquito.shinyapps.io/ntx-interactive/
-when: 1472853127.09983
+when: 1473543096.78763
 asMultiple: FALSE
 asStatic: FALSE

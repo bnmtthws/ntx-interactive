@@ -21,7 +21,7 @@ common_cols = c('Vectorbase.Identifier','Internal.gene.ID','Display.name','Gene.
 plotData <- function(genes, tissues) {
   
   ### grab our genes of interest, only within our tissue of interest
-  tpm_subset <- tpm_ru[tpm_ru$Vectorbase.Identifier %in% genes,]
+  tpm_subset <- tpm_ru[grep(genes, tpm_ru$Vectorbase.Identifier), ]
   
   ### reformat dataframe by 'melting' it for easier plotting
   tpm_subset.melt <- melt(tpm_subset,id.vars = common_cols)
@@ -32,14 +32,14 @@ plotData <- function(genes, tissues) {
   tpm_subset.melt <- merge(lib_info[,c("Library.ID","tissue","state","sex","condition")], tpm_subset.melt,by="Library.ID")
   
   tpm_subset.melt$condition <- revalue(tpm_subset.melt$condition, c("SF"="Sugarfed_0h", "BF"="Bloodfed_48h","O"="Gravid_96h","male"="Male"))  
-  tpm_subset.melt$condition <- factor(tpm_subset.melt$condition, c("Sugarfed_0h", "Bloodfed_48h", "Gravid_96h", "male"))
+  tpm_subset.melt$condition <- factor(tpm_subset.melt$condition, c("Sugarfed_0h", "Bloodfed_48h", "Gravid_96h", "Male"))
   
   ### generate plot using ggplot2
   final_plot <- ggplot(data=tpm_subset.melt[tpm_subset.melt$tissue %in% tissues,],
                        aes(x=Vectorbase.Identifier,y=Transcripts.Per.Million,
                            group=condition,colour=condition)) + 
     geom_point(position=position_dodge(width = .5)) +
-    facet_grid(sex ~ tissue)
+    facet_grid(. ~ tissue)
   final_plot <- final_plot + ggtitle("expression profile")
   
   return(final_plot)
@@ -48,7 +48,7 @@ plotData <- function(genes, tissues) {
 plotDataRU <- function(genes, tissues) {
   
   ### grab our genes of interest, only within our tissue of interest
-  tpm_subset <- tpm_ru[tpm_ru$Internal.gene.ID %in% genes,]
+  tpm_subset <- tpm_ru[grep(genes, tpm_ru$Internal.gene.ID), ]
   
   ### reformat dataframe by 'melting' it for easier plotting
   tpm_subset.melt <- melt(tpm_subset,id.vars = common_cols)
@@ -59,14 +59,14 @@ plotDataRU <- function(genes, tissues) {
   tpm_subset.melt <- merge(lib_info[,c("Library.ID","tissue","state","sex","condition")], tpm_subset.melt,by="Library.ID")
   
   tpm_subset.melt$condition <- revalue(tpm_subset.melt$condition, c("SF"="Sugarfed_0h", "BF"="Bloodfed_48h","O"="Gravid_96h","male"="Male"))  
-  tpm_subset.melt$condition <- factor(tpm_subset.melt$condition, c("Sugarfed_0h", "Bloodfed_48h", "Gravid_96h", "male"))
+  tpm_subset.melt$condition <- factor(tpm_subset.melt$condition, c("Sugarfed_0h", "Bloodfed_48h", "Gravid_96h", "Male"))
   
   ### generate plot using ggplot2
   final_plot <- ggplot(data=tpm_subset.melt[tpm_subset.melt$tissue %in% tissues,],
                        aes(x=Internal.gene.ID,y=Transcripts.Per.Million,
                            group=condition,colour=condition)) + 
     geom_point(position=position_dodge(width = .5)) +
-    facet_grid(sex ~ tissue)
+    facet_grid(. ~ tissue)
   final_plot <- final_plot + ggtitle("expression profile")
   
   return(final_plot)
