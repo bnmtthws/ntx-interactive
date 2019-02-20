@@ -1,0 +1,258 @@
+LibraryID,Reference,RunType,SampleName,Sex,Condition/Timepoint,Tissue
+11356,Akbari,SE,Male Carcass,M,NA,Carcass
+11356_PE,Akbari,PE,Male Carcass,M,NA,Carcass
+11357,Akbari,SE,Male Testes,M,NA,Testes
+11357_PE,Akbari,PE,Male Testes,M,NA,Testes
+11358,Akbari,SE,Non-BF Female Carcass,F,Non-BF,Carcass
+11359,Akbari,SE,Non-BF Female Ovary,F,Non-BF,Ovary
+11360,Akbari,SE,72hr-BF female Ovary,F,72hr-BF,Ovary
+11360_PE,Akbari,PE,72hr-BF female Ovary,F,72hr-BF,Ovary
+11361,Akbari,SE,72hr-BF female Carcass,F,72hr-BF,Carcass
+11361_PE,Akbari,PE,72hr-BF female Carcass,F,72hr-BF,Carcass
+11362,Akbari,SE,0-2hr Embryo,U,0-2hr,Embryo
+11363,Akbari,SE,4th Instar Larvae,U,4th Instar,Larvae
+11507,Akbari,SE,2-4hr Embryo,U,2-4hr,Embryo
+11508,Akbari,SE,4-8hr Embryo,U,4-8hr,Embryo
+11509,Akbari,SE,8-12hr Embryo,U,8-12hr,Embryo
+11511,Akbari,SE,12hr-BF Female Ovary,F,12hr-BF,Ovary
+11512,Akbari,SE,24hr-BF Female Ovary,F,24hr-BF,Ovary
+11513,Akbari,SE,36hr-BF Female Ovary,F,36hr-BF,Ovary
+11514,Akbari,SE,48hr-BF Female Ovary,F,48hr-BF,Ovary
+11515,Akbari,SE,60hr-BF Female Ovary,F,60hr-BF,Ovary
+11666,Akbari,SE,Female Pupae,F,NA,Pupae
+11724,Akbari,SE,12-16hr Embryo,U,12-16hr,Embryo
+11725,Akbari,SE,Male Pupae,M,NA,Pupae
+11772,Akbari,SE,16-20hr Embryo,U,16-20hr,Embryo
+11773,Akbari,SE,20-24hr Embryo,U,20-24hr,Embryo
+11774,Akbari,SE,36-40hr Embryo,U,36-40hr,Embryo
+11775,Akbari,SE,40-44hr Embryo,U,40-44hr,Embryo
+11776,Akbari,SE,44-48hr Embryo,U,44-48hr,Embryo
+11777,Akbari,SE,60-64hr Embryo,U,60-64hr,Embryo
+11780,Akbari,SE,12hr-BF Female Carcass,F,12hr-BF,Carcass
+11781,Akbari,SE,24hr-BF Female Carcass,F,24hr-BF,Carcass
+11782,Akbari,SE,1st Instar Larvae,U,1st Instar,Larvae
+11783,Akbari,SE,2nd Instar Larvae,U,2nd Instar,Larvae
+11784,Akbari,SE,3rd Instar Larvae,U,3rd Instar,Larvae
+12072,Akbari,SE,36hr-BF Female Carcass,F,36hr-BF,Carcass
+12073,Akbari,SE,48hr-BF Female Carcass,F,48hr-BF,Carcass
+12074,Akbari,SE,60hr-BF Female Carcass,F,60hr-BF,Carcass
+12105,Akbari,SE,24-28hr Embryo,U,24-28hr,Embryo
+12106,Akbari,SE,56-60hr Embryo,U,56-60hr,Embryo
+12107,Akbari,SE,72-76hr Embryo,U,72-76hr,Embryo
+12170,Akbari,SE,28-32hr Embryo,U,28-32hr,Embryo
+12171,Akbari,SE,32-36hr Embryo,U,32-36hr,Embryo
+12172,Akbari,SE,48-52hr Embryo,U,48-52hr,Embryo
+12173,Akbari,SE,52-56hr Embryo,U,52-56hr,Embryo
+12174,Akbari,SE,64-68hr Embryo,U,64-68hr,Embryo
+12175,Akbari,SE,68-72hr Embryo,U,68-72hr,Embryo
+Fe_An_BF_1,Matthews,SE,Fe_An_BF_1,F,BF,antenna
+Fe_An_BF_2,Matthews,SE,Fe_An_BF_2,F,BF,antenna
+Fe_An_BF_3,Matthews,SE,Fe_An_BF_3,F,BF,antenna
+Fe_An_BF_4,Matthews,SE,Fe_An_BF_4,F,BF,antenna
+Fe_An_O_1,Matthews,SE,Fe_An_O_1,F,O,antenna
+Fe_An_O_2,Matthews,SE,Fe_An_O_2,F,O,antenna
+Fe_An_O_3,Matthews,SE,Fe_An_O_3,F,O,antenna
+Fe_An_O_4,Matthews,SE,Fe_An_O_4,F,O,antenna
+Fe_An_SF_1,Matthews,PE,Fe_An_SF_1,F,SF,antenna
+Fe_An_SF_2,Matthews,PE,Fe_An_SF_2,F,SF,antenna
+Fe_An_SF_3,Matthews,PE,Fe_An_SF_3,F,SF,antenna
+Fe_An_SF_4,Matthews,PE,Fe_An_SF_4,F,SF,antenna
+Fe_An_SF_5,Matthews,SE,Fe_An_SF_5,F,SF,antenna
+Fe_An_SF_6,Matthews,SE,Fe_An_SF_6,F,SF,antenna
+Fe_An_SF_7,Matthews,SE,Fe_An_SF_7,F,SF,antenna
+Fe_An_SF_8,Matthews,SE,Fe_An_SF_8,F,SF,antenna
+Fe_At_O_1,Matthews,PE,Fe_At_O_1,F,O,abdominaltip
+Fe_At_O_2,Matthews,PE,Fe_At_O_2,F,O,abdominaltip
+Fe_At_O_3,Matthews,PE,Fe_At_O_3,F,O,abdominaltip
+Fe_At_O_4,Matthews,PE,Fe_At_O_4,F,O,abdominaltip
+Fe_At_O_5,Matthews,SE,Fe_At_O_5,F,O,abdominaltip
+Fe_At_O_6,Matthews,SE,Fe_At_O_6,F,O,abdominaltip
+Fe_At_O_7,Matthews,SE,Fe_At_O_7,F,O,abdominaltip
+Fe_At_SF_1,Matthews,SE,Fe_At_SF_1,F,SF,abdominaltip
+Fe_At_SF_2,Matthews,SE,Fe_At_SF_2,F,SF,abdominaltip
+Fe_At_SF_3,Matthews,SE,Fe_At_SF_3,F,SF,abdominaltip
+Fe_Br_BF_1,Matthews,SE,Fe_Br_BF_1,F,BF,brain
+Fe_Br_BF_2,Matthews,SE,Fe_Br_BF_2,F,BF,brain
+Fe_Br_BF_3,Matthews,SE,Fe_Br_BF_3,F,BF,brain
+Fe_Br_BF_4,Matthews,SE,Fe_Br_BF_4,F,BF,brain
+Fe_Br_O_1,Matthews,SE,Fe_Br_O_1,F,O,brain
+Fe_Br_O_2,Matthews,SE,Fe_Br_O_2,F,O,brain
+Fe_Br_O_3,Matthews,SE,Fe_Br_O_3,F,O,brain
+Fe_Br_O_4,Matthews,SE,Fe_Br_O_4,F,O,brain
+Fe_Br_SF_1,Matthews,PE,Fe_Br_SF_1,F,SF,brain
+Fe_Br_SF_2,Matthews,PE,Fe_Br_SF_2,F,SF,brain
+Fe_Br_SF_3,Matthews,PE,Fe_Br_SF_3,F,SF,brain
+Fe_Br_SF_4,Matthews,PE,Fe_Br_SF_4,F,SF,brain
+Fe_Br_SF_5,Matthews,SE,Fe_Br_SF_5,F,SF,brain
+Fe_Br_SF_6,Matthews,SE,Fe_Br_SF_6,F,SF,brain
+Fe_Br_SF_7,Matthews,SE,Fe_Br_SF_7,F,SF,brain
+Fe_Br_SF_8,Matthews,SE,Fe_Br_SF_8,F,SF,brain
+Fe_FL_O_1,Matthews,SE,Fe_FL_O_1,F,O,forelegs
+Fe_FL_O_2,Matthews,PE,Fe_FL_O_2,F,O,forelegs
+Fe_FL_O_3,Matthews,PE,Fe_FL_O_3,F,O,forelegs
+Fe_FL_O_4,Matthews,PE,Fe_FL_O_4,F,O,forelegs
+Fe_FL_O_5,Matthews,PE,Fe_FL_O_5,F,O,forelegs
+Fe_FL_O_6,Matthews,SE,Fe_FL_O_6,F,O,forelegs
+Fe_FL_O_7,Matthews,SE,Fe_FL_O_7,F,O,forelegs
+Fe_FL_SF_1,Matthews,SE,Fe_FL_SF_1,F,SF,forelegs
+Fe_FL_SF_2,Matthews,SE,Fe_FL_SF_2,F,SF,forelegs
+Fe_FL_SF_3,Matthews,SE,Fe_FL_SF_3,F,SF,forelegs
+Fe_HL_BF_1,Matthews,SE,Fe_HL_BF_1,F,BF,hindlegs
+Fe_HL_BF_2,Matthews,SE,Fe_HL_BF_2,F,BF,hindlegs
+Fe_HL_BF_3,Matthews,SE,Fe_HL_BF_3,F,BF,hindlegs
+Fe_HL_BF_4,Matthews,SE,Fe_HL_BF_4,F,BF,hindlegs
+Fe_HL_O_1,Matthews,PE,Fe_HL_O_1,F,O,hindlegs
+Fe_HL_O_2,Matthews,PE,Fe_HL_O_2,F,O,hindlegs
+Fe_HL_O_3,Matthews,PE,Fe_HL_O_3,F,O,hindlegs
+Fe_HL_O_4,Matthews,PE,Fe_HL_O_4,F,O,hindlegs
+Fe_HL_O_5,Matthews,PE,Fe_HL_O_5,F,O,hindlegs
+Fe_HL_O_6,Matthews,SE,Fe_HL_O_6,F,O,hindlegs
+Fe_HL_O_7,Matthews,SE,Fe_HL_O_7,F,O,hindlegs
+Fe_HL_O_8,Matthews,SE,Fe_HL_O_8,F,O,hindlegs
+Fe_HL_SF_1,Matthews,SE,Fe_HL_SF_1,F,SF,hindlegs
+Fe_HL_SF_2,Matthews,SE,Fe_HL_SF_2,F,SF,hindlegs
+Fe_HL_SF_3,Matthews,SE,Fe_HL_SF_3,F,SF,hindlegs
+Fe_HL_SF_4,Matthews,SE,Fe_HL_SF_4,F,SF,hindlegs
+Fe_HL_SF_5,Matthews,SE,Fe_HL_SF_5,F,SF,hindlegs
+Fe_HL_SF_6,Matthews,SE,Fe_HL_SF_6,F,SF,hindlegs
+Fe_ML_O_1,Matthews,SE,Fe_ML_O_1,F,O,midlegs
+Fe_ML_O_2,Matthews,PE,Fe_ML_O_2,F,O,midlegs
+Fe_ML_O_3,Matthews,PE,Fe_ML_O_3,F,O,midlegs
+Fe_ML_O_4,Matthews,PE,Fe_ML_O_4,F,O,midlegs
+Fe_ML_O_5,Matthews,SE,Fe_ML_O_5,F,O,midlegs
+Fe_ML_O_6,Matthews,SE,Fe_ML_O_6,F,O,midlegs
+Fe_ML_O_7,Matthews,PE,Fe_ML_O_7,F,O,midlegs
+Fe_ML_SF_1,Matthews,SE,Fe_ML_SF_1,F,SF,midlegs
+Fe_ML_SF_2,Matthews,SE,Fe_ML_SF_2,F,SF,midlegs
+Fe_ML_SF_3,Matthews,SE,Fe_ML_SF_3,F,SF,midlegs
+Fe_Os_SF_1,Matthews,PE,Fe_Os_SF_1,F,SF,proboscis
+Fe_Os_SF_2,Matthews,PE,Fe_Os_SF_2,F,SF,proboscis
+Fe_Os_SF_3,Matthews,PE,Fe_Os_SF_3,F,SF,proboscis
+Fe_Os_SF_4,Matthews,PE,Fe_Os_SF_4,F,SF,proboscis
+Fe_Os_SF_5,Matthews,PE,Fe_Os_SF_5,F,SF,proboscis
+Fe_Ov_O_1,Matthews,PE,Fe_Ov_O_1,F,O,ovaries
+Fe_Ov_O_2,Matthews,PE,Fe_Ov_O_2,F,O,ovaries
+Fe_Ov_O_3,Matthews,PE,Fe_Ov_O_3,F,O,ovaries
+Fe_Ov_O_4,Matthews,PE,Fe_Ov_O_4,F,O,ovaries
+Fe_Ov_SF_1,Matthews,PE,Fe_Ov_SF_1,F,SF,ovaries
+Fe_Ov_SF_2,Matthews,PE,Fe_Ov_SF_2,F,SF,ovaries
+Fe_Ov_SF_3,Matthews,PE,Fe_Ov_SF_3,F,SF,ovaries
+Fe_Pa_SF_1,Matthews,PE,Fe_Pa_SF_1,F,SF,palps
+Fe_Pa_SF_2,Matthews,PE,Fe_Pa_SF_2,F,SF,palps
+Fe_Pa_SF_3,Matthews,PE,Fe_Pa_SF_3,F,SF,palps
+Fe_Pa_SF_4,Matthews,PE,Fe_Pa_SF_4,F,SF,palps
+Fe_Rs_BF_1,Matthews,SE,Fe_Rs_BF_1,F,BF,rostrum
+Fe_Rs_BF_2,Matthews,SE,Fe_Rs_BF_2,F,BF,rostrum
+Fe_Rs_BF_3,Matthews,SE,Fe_Rs_BF_3,F,BF,rostrum
+Fe_Rs_SF_1,Matthews,SE,Fe_Rs_SF_1,F,SF,rostrum
+Fe_Rs_SF_2,Matthews,SE,Fe_Rs_SF_2,F,SF,rostrum
+Fe_Rs_SF_3,Matthews,SE,Fe_Rs_SF_3,F,SF,rostrum
+Ma_An_1,Matthews,PE,Ma_An_1,M,NA,antenna
+Ma_An_2,Matthews,PE,Ma_An_2,M,NA,antenna
+Ma_An_3,Matthews,PE,Ma_An_3,M,NA,antenna
+Ma_AT_1,Matthews,PE,Ma_AT_1,M,NA,abdominaltip
+Ma_AT_2,Matthews,PE,Ma_AT_2,M,NA,abdominaltip
+Ma_AT_3,Matthews,PE,Ma_AT_3,M,NA,abdominaltip
+Ma_Br_1,Matthews,PE,Ma_Br_1,M,NA,brain
+Ma_Br_2,Matthews,PE,Ma_Br_2,M,NA,brain
+Ma_Br_3,Matthews,PE,Ma_Br_3,M,NA,brain
+Ma_FL_1,Matthews,PE,Ma_FL_1,M,NA,forelegs
+Ma_FL_2,Matthews,PE,Ma_FL_2,M,NA,forelegs
+Ma_FL_3,Matthews,PE,Ma_FL_3,M,NA,forelegs
+Ma_HL_1,Matthews,PE,Ma_HL_1,M,NA,hindlegs
+Ma_HL_2,Matthews,PE,Ma_HL_2,M,NA,hindlegs
+Ma_HL_3,Matthews,PE,Ma_HL_3,M,NA,hindlegs
+Ma_HL_4,Matthews,SE,Ma_HL_4,M,NA,hindlegs
+Ma_HL_5,Matthews,SE,Ma_HL_5,M,NA,hindlegs
+Ma_ML_1,Matthews,PE,Ma_ML_1,M,NA,midlegs
+Ma_ML_2,Matthews,PE,Ma_ML_2,M,NA,midlegs
+Ma_ML_3,Matthews,PE,Ma_ML_3,M,NA,midlegs
+Ma_Rs_1,Matthews,SE,Ma_Rs_1,M,NA,rostrum
+Ma_Rs_2,Matthews,SE,Ma_Rs_2,M,NA,rostrum
+Ma_Rs_3,Matthews,SE,Ma_Rs_3,M,NA,rostrum
+CF1,Verily_unpublished,PE,CF1,F,NA,Female Carcass
+CF2,Verily_unpublished,PE,CF2,F,NA,Female Carcass
+CF3,Verily_unpublished,PE,CF3,F,NA,Female Carcass
+CF4,Verily_unpublished,PE,CF4,F,NA,Female Carcass
+CM1,Verily_unpublished,PE,CM1,M,NA,Male Carcass
+CM2,Verily_unpublished,PE,CM2,M,NA,Male Carcass
+CM3,Verily_unpublished,PE,CM3,M,NA,Male Carcass
+CM4,Verily_unpublished,PE,CM4,M,NA,Male Carcass
+EP1,Verily_unpublished,PE,EP1,F,NA,Early Pupae
+EP2,Verily_unpublished,PE,EP2,F,NA,Early Pupae
+EP3,Verily_unpublished,PE,EP3,F,NA,Early Pupae
+EP4,Verily_unpublished,PE,EP4,F,NA,Early Pupae
+EP5,Verily_unpublished,PE,EP5,M,NA,Early Pupae
+EP6,Verily_unpublished,PE,EP6,M,NA,Early Pupae
+EP7,Verily_unpublished,PE,EP7,M,NA,Early Pupae
+EP8,Verily_unpublished,PE,EP8,M,NA,Early Pupae
+L110,Verily_unpublished,PE,L110,U,NA,L1 Larvae
+L111,Verily_unpublished,PE,L111,U,NA,L1 Larvae
+L113,Verily_unpublished,PE,L113,U,NA,L1 Larvae
+L114,Verily_unpublished,PE,L114,U,NA,L1 Larvae
+L11,Verily_unpublished,PE,L11,U,NA,L1 Larvae
+L12,Verily_unpublished,PE,L12,U,NA,L1 Larvae
+L13,Verily_unpublished,PE,L13,U,NA,L1 Larvae
+L14,Verily_unpublished,PE,L14,U,NA,L1 Larvae
+L15,Verily_unpublished,PE,L15,U,NA,L1 Larvae
+L16,Verily_unpublished,PE,L16,U,NA,L1 Larvae
+L17,Verily_unpublished,PE,L17,U,NA,L1 Larvae
+L18,Verily_unpublished,PE,L18,U,NA,L1 Larvae
+L19,Verily_unpublished,PE,L19,U,NA,L1 Larvae
+L210,Verily_unpublished,PE,L210,U,NA,L2 Larvae
+L211,Verily_unpublished,PE,L211,U,NA,L2 Larvae
+L212,Verily_unpublished,PE,L212,U,NA,L2 Larvae
+L213,Verily_unpublished,PE,L213,U,NA,L2 Larvae
+L214,Verily_unpublished,PE,L214,U,NA,L2 Larvae
+L215,Verily_unpublished,PE,L215,U,NA,L2 Larvae
+L21,Verily_unpublished,PE,L21,U,NA,L2 Larvae
+L23,Verily_unpublished,PE,L23,U,NA,L2 Larvae
+L24,Verily_unpublished,PE,L24,U,NA,L2 Larvae
+L25,Verily_unpublished,PE,L25,U,NA,L2 Larvae
+L26,Verily_unpublished,PE,L26,U,NA,L2 Larvae
+L27,Verily_unpublished,PE,L27,U,NA,L2 Larvae
+L28,Verily_unpublished,PE,L28,U,NA,L2 Larvae
+L29,Verily_unpublished,PE,L29,U,NA,L2 Larvae
+L315,Verily_unpublished,PE,L315,F,NA,L3 Larvae
+L31,Verily_unpublished,PE,L31,M,NA,L3 Larvae
+L32,Verily_unpublished,PE,L32,M,NA,L3 Larvae
+L33,Verily_unpublished,PE,L33,M,NA,L3 Larvae
+L34,Verily_unpublished,PE,L34,F,NA,L3 Larvae
+L35,Verily_unpublished,PE,L35,M,NA,L3 Larvae
+L37,Verily_unpublished,PE,L37,M,NA,L3 Larvae
+L41,Verily_unpublished,PE,L41,M,NA,L4 Larvae
+L42,Verily_unpublished,PE,L42,M,NA,L4 Larvae
+L43,Verily_unpublished,PE,L43,F,NA,L4 Larvae
+L44,Verily_unpublished,PE,L44,F,NA,L4 Larvae
+L45,Verily_unpublished,PE,L45,F,NA,L4 Larvae
+L46,Verily_unpublished,PE,L46,F,NA,L4 Larvae
+L47,Verily_unpublished,PE,L47,M,NA,L4 Larvae
+L48,Verily_unpublished,PE,L48,M,NA,L4 Larvae
+LP1,Verily_unpublished,PE,LP1,F,NA,Late Pupae
+LP2,Verily_unpublished,PE,LP2,F,NA,Late Pupae
+LP3,Verily_unpublished,PE,LP3,F,NA,Late Pupae
+LP4,Verily_unpublished,PE,LP4,M,NA,Late Pupae
+LP5,Verily_unpublished,PE,LP5,M,NA,Late Pupae
+LP6,Verily_unpublished,PE,LP6,M,NA,Late Pupae
+LP7,Verily_unpublished,PE,LP7,M,NA,Late Pupae
+LP8,Verily_unpublished,PE,LP8,M,NA,Late Pupae
+M1,Verily_unpublished,PE,M1,M,NA,MAGs
+M2,Verily_unpublished,PE,M2,M,NA,MAGs
+M3,Verily_unpublished,PE,M3,M,NA,MAGs
+M4,Verily_unpublished,PE,M4,M,NA,MAGs
+MP1,Verily_unpublished,PE,MP1,F,NA,Mid Pupae
+MP2,Verily_unpublished,PE,MP2,F,NA,Mid Pupae
+MP3,Verily_unpublished,PE,MP3,F,NA,Mid Pupae
+MP4,Verily_unpublished,PE,MP4,M,NA,Mid Pupae
+MP5,Verily_unpublished,PE,MP5,M,NA,Mid Pupae
+MP6,Verily_unpublished,PE,MP6,M,NA,Mid Pupae
+MP7,Verily_unpublished,PE,MP7,M,NA,Mid Pupae
+MP8,Verily_unpublished,PE,MP8,M,NA,Mid Pupae
+O1,Verily_unpublished,PE,O1,F,NA,Ovaries
+O2,Verily_unpublished,PE,O2,F,NA,Ovaries
+O3,Verily_unpublished,PE,O3,F,NA,Ovaries
+O4,Verily_unpublished,PE,O4,F,NA,Ovaries
+T1,Verily_unpublished,PE,T1,M,NA,Testes
+T2,Verily_unpublished,PE,T2,M,NA,Testes
+T3,Verily_unpublished,PE,T3,M,NA,Testes
+T4,Verily_unpublished,PE,T4,M,NA,Testes
